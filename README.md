@@ -112,7 +112,7 @@ This work is being prepared for submission to **ICCIT 2026** (IEEE-sponsored), w
 ## Author
 
 **Siam** — B.Sc. in Computer Science and Engineering, Daffodil International University
-[GitHub](https://github.com/khansaheb587) · [Email](#)
+[GitHub](https://github.com/khansaheb587) · [Email](siamsiaf999@gmail.com)
 
 ## License
 
